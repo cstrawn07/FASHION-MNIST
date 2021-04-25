@@ -1,16 +1,6 @@
 # FASHION-MNIST
 The dataset being used in this project I the is the FASHION MNIST dataset which contains 28x28 pixel images of T-shirts, trousers, pullovers, dresses, coats, sandals, shirts, sneakers, bags, and ankle boots that are assigned a numerical value from 0 to 9. 
 
-
-##################################
-# Readme file for project code   #
-# Due on Nov 11, 2019            #
-# Modified by Christopher Strawn #
-# from original code provided in # 
-# class                          # 
-##################################
-
-
 There should be three files turned in for this project.
 
 Project_Code-Data.ipynb
